@@ -133,6 +133,7 @@ grid-template-areas:
 
 /*ESTILOS DEL FOOTER*/
 #footer {
+    color:chocolate;
     width:100%;
     height: auto;
     background-color: white;
