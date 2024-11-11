@@ -21,65 +21,6 @@ ul {display: inline}
     padding: 0 70px;
     display:flex;
     text-align: justify;
-    background-image: url(images/fondo.png);
-    background-color: transparent;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-color: #999;
-}
-
-#main__hospedajes {
-    margin-top:50px;
-    min-height: 100vh;
-    padding: 0 70px;
-    display:flex;
-    flex-direction: column;
-    text-align: center;
-}
-
-#main__rutas {
-    min-height: 100vh;
-    padding: 0 70px;
-    display:flex;
-    flex-direction: column;
-    text-align: center;
-}
-
-#main__contacto {
-    padding: 50px 55px 50px 55px;  
-    text-align: center;
-    margin: 0 auto;
-    align-content: center;
-    border-radius: 10px;
-    border: 1px solid #666666;
-    width: 900px;
-    margin-bottom: 4em;  
-}
-=======
-a { text-decoration: none;
-    color:black;
-}
-
-li {display: inline-block;
-    list-style: circle;}
-
-ul {display: inline}
-
-#body {
-    display: flex;
-    flex-direction: column;   
-}
-
-#main {
-    align-content: center;
-    color: black;
-    margin-top:40px;
-    min-height: 100vh;
-    padding: 0 70px;
-    display:flex;
-    text-align: justify;
     background-image: url(/images/fondo.png) ;
     background-color: transparent;
     background-position: center center;
